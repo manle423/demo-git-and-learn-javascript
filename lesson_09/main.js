@@ -41,4 +41,4 @@ languages.splice(2, 3, 'Swift'); // luc nay mang mat 3 phan tu ruby javascript v
 console.log(languages.concat(social_media));
 
 // slicing tuc se cat va in ra n phan tu tu vi tri thu i
-console.log(languages.slice(1, 2)); // luc nay se tra ve facebook, instagram
+console.log(social_media.slice(1, 2)); // luc nay se tra ve facebook, instagram
