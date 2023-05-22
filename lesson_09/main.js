@@ -1,4 +1,4 @@
-var languages{
+var languages = [
   'Java',
   'C++',
   'Ruby',
@@ -6,13 +6,13 @@ var languages{
   'Python',
   'Go',
   'PHP',
-};
-var social_media{
+];
+var social_media = [
   'github',
   'facebook',
   'instagram',
   'telegram',
-};
+];
 
 // Chuyen mang thanh string
 console.log(languages.toString());
