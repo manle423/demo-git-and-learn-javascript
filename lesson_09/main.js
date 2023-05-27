@@ -40,5 +40,5 @@ languages.splice(2, 3, 'Swift'); // luc nay mang mat 3 phan tu ruby javascript v
 // concat la gop 2 mang lai voi nhau
 console.log(languages.concat(social_media));
 
-// slicing tuc se cat va in ra n phan tu tu vi tri thu i
-console.log(social_media.slice(1, 2)); // luc nay se tra ve facebook, instagram
+// slicing tuc se cat va in phan tu tu vi tri thu i toi vi tri thu k - 1
+console.log(social_media.slice(1, 3)); // luc nay se tra ve facebook, instagram
